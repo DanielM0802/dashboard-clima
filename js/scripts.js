@@ -58,6 +58,7 @@ function iniciarApp(){
 
     obtenerClimaCiudades();
     
+    
 
 }
 
