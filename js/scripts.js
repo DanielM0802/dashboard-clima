@@ -1,3 +1,4 @@
+
 const codigos = {
     "Antofagasta" : "SCFA",
     "Arch. Juan Fernández" : "SCIR",
