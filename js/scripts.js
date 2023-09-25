@@ -1,4 +1,3 @@
-
 const codigos = {
     "Antofagasta" : "SCFA",
     "Arch. Juan Fernández" : "SCIR",
@@ -45,7 +44,11 @@ document.addEventListener('DOMContentLoaded', iniciarApp);
 function iniciarApp(){
 
     console.log('iniciando....')
+
+ //hola
     obtenerClimaCodigo();
+
+    const number = 0;
 
     const formulario = document.querySelector('#formulario');
     formulario.addEventListener('submit', e =>{
